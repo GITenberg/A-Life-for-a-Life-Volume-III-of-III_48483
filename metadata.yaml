@@ -1,4 +1,8 @@
 _repo: A-Life-for-a-Life-Volume-III-of-III_48483
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Craik, Dinah Maria Mulock
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/264
     wikipedia: http://en.wikipedia.org/wiki/Dinah_Craik
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48483#A-Life-for-a-Life-Volume-III-of-III
 gutenberg_issued: '2015-03-13'
 gutenberg_type: Text
 identifiers:
